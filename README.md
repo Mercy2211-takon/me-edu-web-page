@@ -1,2 +1,2 @@
-# me-edu-web-page
+# my educational site
 educational site
